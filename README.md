@@ -28,8 +28,10 @@ I also tried to use the countours for the detection, but the Success rate was 11
 # Background Subtraction
 I tried to add to the the backgroun subtraction to all of this methods, in YOLO, I don't know why, it doesn't work, it decreases the performance  of the alghortim. In the other two cases it helps a lot with the performance.
 
-Without background Subtraction 
+Blob Detection without Background Subtraction 
 ![conbackground](https://user-images.githubusercontent.com/44268830/121672061-a1593e00-caaf-11eb-9375-76a6e713126a.png)
-With background Subtraction 
+Blob Detection with Background Subtraction 
 ![provo1](https://user-images.githubusercontent.com/44268830/121672076-a74f1f00-caaf-11eb-8cd5-1b8e3cbac012.png)
+What the alghoritm actually sees!
+[provo2](https://user-images.githubusercontent.com/44268830/121672443-188ed200-cab0-11eb-8526-5c3189f0ebfd.png)
 
