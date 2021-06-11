@@ -26,5 +26,5 @@ For the tracking i tried to followe the center of the blob, it works but not per
 I also tried to use the countours for the detection, but the Success rate was 11%.
 
 # Background Subtraction
-I tried to add to the the backgroun subtraction to all of this methods, in YOLO i don't know why it doesn0t work, it decrese the performance of the alghortim. In the other two cases it helps a lot with the performance.
+I tried to add to the the backgroun subtraction to all of this methods, in YOLO, I don't know why, it doesn't work, it decreases the performance  of the alghortim. In the other two cases it helps a lot with the performance.
 
