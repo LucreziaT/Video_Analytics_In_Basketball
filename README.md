@@ -26,7 +26,7 @@ For the tracking i tried to followe the center of the blob, it works but not per
 I also tried to use the countours for the detection, but the Success rate was 11%.
 
 # Background Subtraction
-I tried to add to the the backgroun subtraction to all of this methods, in YOLO, it doesn't work properly and decreases the performance  of the alghortim, this bacause YOLO is trained on real images of persons, with real background, not with black background, What i should do to improve the alghortim is to train a network by my self, this require lot of time and a powerfull GPU. 
+I tried to add to the the backgroun subtraction to all of this methods, in YOLO, it doesn't work properly and decreases the performance  of the algorithm, this bacause YOLO is trained on real images of persons, with real background, not with black background, What i should do to improve the algorithm is to train a network by my self, this require lot of time and a powerfull GPU, but performance in detection would improve massively! 
 
 In the other two cases it helps a lot with the performance, these photos prove it:
 
