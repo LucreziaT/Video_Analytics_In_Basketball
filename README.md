@@ -40,5 +40,7 @@ What the alghoritm actually sees!
 # Output video
 With background subtraction algorithm for the tracking
 https://drive.google.com/file/d/1sUuKK8e6Ejy6e9CC5hARWYOCv3GWBxxs/view?usp=sharing 
+
+
 Without background subtraction algorithm for the tracking
 https://drive.google.com/file/d/1xQleaPV_H3OHAtUAa7KOjbI-mI2HBs-p/view?usp=sharing 
